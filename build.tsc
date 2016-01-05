@@ -1,0 +1,14 @@
+[
+    {
+        "BuildCommand": "haxelib run openfl build project.xml neko",
+        "Target": "neko"
+    },
+    {
+        "BuildCommand": "haxelib run openfl build project.xml flash",
+        "Target": "flash"
+    },
+    {
+        "BuildCommand": "haxelib run openfl build project.xml html5",
+        "Target": "html5"
+    }
+]
